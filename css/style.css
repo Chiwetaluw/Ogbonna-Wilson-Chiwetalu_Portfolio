@@ -422,7 +422,7 @@ footer {
         grid-template-rows: repeat(2, 500px);
         width: 95%;
         align-items: center;
-        height: 65vh;
+        height: 95vh;
     }
 
     .contact .social {
